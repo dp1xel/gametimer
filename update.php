@@ -1,4 +1,4 @@
 {
   "updateurl": "/",
-  "latest": "3.2"
+  "latest": "3.1"
 }
