@@ -1,4 +1,4 @@
 {
-  "updateurl": "https://github.com/dp1xel/gametimer/raw/main/!gtime.luac",
+  "updateurl": "https://github.com/dp1xel/gametimer/raw/main/!gtime.luac", 
   "latest": "4.5"
 }
